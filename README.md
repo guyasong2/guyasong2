@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guyasong2
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Next.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
