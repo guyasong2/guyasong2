@@ -1,5 +1,5 @@
 # 💫 About Me:
-codebuddy<br>Fun coding Projects<br>NextJs Projects<br>UI/UX Designs<br>Typescript, NextJs, TailwindCSS, Javascript<br>I Love to code
+Fun coding Projects<br>NextJs Projects<br>UI/UX Designs<br>Typescript, NextJs, TailwindCSS, Javascript<br>
 
 
 ## 🌐 Socials:
