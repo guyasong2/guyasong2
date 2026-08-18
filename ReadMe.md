@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guy Asong</h1>
 <h3 align="center">Fullstack Developer</h3>
-- 🔭 I’m currently working on [Jarr](https://github.com/guyasong2/jarr)
+- 🔭 I’m currently working on [Koraa](https://github.com/guyasong2/koraa)
 - 💬 Ask me about **Next.Js, Django, TailwindCSS, Javascript, Typescript, React**
 - 📫 How to reach me **guyasong1@gmail.com**
 - 👨‍💻 All of my projects are available at **https://www.guyasong.me**
